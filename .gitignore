@@ -1,0 +1,20 @@
+# Public repository: documentation and approved image resources only.
+# Installers belong in GitHub Releases, not Git history.
+/*
+!/.gitignore
+!/readme.md
+!/README.zh-CN.md
+!/assets/
+/assets/*
+!/assets/README.md
+!/assets/brand/
+!/assets/screenshots/
+!/assets/features/
+*.exe
+*.msi
+*.msix
+*.zip
+*.pdb
+*.log
+.DS_Store
+Thumbs.db
